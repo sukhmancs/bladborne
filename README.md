@@ -8,4 +8,4 @@ As a fan of Bloodborne, I've created a game that draws inspiration from its capt
 
 # Usage:
 
-Download the executable from the Releases tab. 
+Download the executable from Releases tab. 
