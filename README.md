@@ -4,4 +4,4 @@ As a fan of Bloodborne, I've created a game that draws inspiration from its capt
 
 # Demo:
 
-./bloodborn_style_game.mkv
+![video](./output.gif)
