@@ -5,3 +5,7 @@ As a fan of Bloodborne, I've created a game that draws inspiration from its capt
 # Demo:
   
 ![video](./output.gif)
+
+# Usage:
+
+Download the executable from the release tab. 
